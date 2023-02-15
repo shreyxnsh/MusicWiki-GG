@@ -16,3 +16,12 @@ genres, the albums, artists and tracks listed under the genre.
 - Clicking on the album should show its information.
 
 ## Screenshots
+
+<img src="https://user-images.githubusercontent.com/88729972/219120104-984b647d-1359-43e2-a849-ebfb303f97c6.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120107-0d43be60-7a2f-4b7f-8038-9ed8e3583c84.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120109-3d934f2e-4615-41ed-8b92-696c08411196.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120089-f4fcbc9e-83bf-4d33-9c88-f582f312574e.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120098-5798220c-6250-49b1-96c8-1fa112810a29.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120100-1b8b3a13-9f9c-45ca-b01e-7d1284e239f2.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/219120078-38f571c6-786a-42a1-a823-ab50359233bb.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/88729972/213798656-71596a63-0968-4bba-9f76-ae098fb1e65c.png" width="30%"></img> 
