@@ -24,4 +24,3 @@ genres, the albums, artists and tracks listed under the genre.
 <img src="https://user-images.githubusercontent.com/88729972/219120098-5798220c-6250-49b1-96c8-1fa112810a29.png" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/88729972/219120100-1b8b3a13-9f9c-45ca-b01e-7d1284e239f2.png" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/88729972/219120078-38f571c6-786a-42a1-a823-ab50359233bb.png" width="30%"></img> 
-<img src="https://user-images.githubusercontent.com/88729972/213798656-71596a63-0968-4bba-9f76-ae098fb1e65c.png" width="30%"></img> 
